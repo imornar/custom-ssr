@@ -43,6 +43,6 @@ app.get('*', (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log('****** progress na masteru ******');
+  console.log('****** progress na masteru novi ******');
   console.log('****** listening 1 2 3 ******');
 });
