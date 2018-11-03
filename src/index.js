@@ -44,5 +44,5 @@ app.get('*', (req, res) => {
 
 app.listen(3000, () => {
   console.log('****** progress na masteru novi posljednji ******');
-  console.log('****** listening 1 2 3 4 5 ******');
+  console.log('****** listening 1 2 3 4 5 6 7 ******');
 });
