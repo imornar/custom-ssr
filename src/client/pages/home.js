@@ -6,7 +6,8 @@ const Home = () => {
         <div className="center-align" style={{ marginTop: 300 }}>
           <h3>format1</h3>
           <p>format2</p>
-        </div>
+        <input type="textlol"/>
+      </div>
       </div>
   )
 };
