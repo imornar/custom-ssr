@@ -7,6 +7,7 @@ const Home = () => {
           <h3>format1</h3>
           <p>format2</p>
         <input type="textlol"/>
+        <button></button>
       </div>
       </div>
   )
